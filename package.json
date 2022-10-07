@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://35.175.235.160:8081/risa/repository/nodjobs/"
+    "registry": "http://54.174.119.194:8081/risa/repository/nodjobs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
